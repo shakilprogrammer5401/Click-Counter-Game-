@@ -1,4 +1,3 @@
-# Click-Counter-Game-
 # Click Counter Game 🎮
 
 A simple game where users can increase a counter by clicking a button. Upon reaching **100**, the game congratulates the user with a message. Includes an optional reset feature for extra fun! 🎉
