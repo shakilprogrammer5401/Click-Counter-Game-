@@ -32,5 +32,5 @@ Create a dynamic click counter game using HTML, CSS, and JavaScript with DOM man
 📦 Click-Counter-Game
 ├── index.html        # Main HTML file
 ├── style.css         # CSS file for styling
-├── script.js         # JavaScript file for game logic
+├── javascript.js         # JavaScript file for game logic
 └── README.md         # Project documentation
